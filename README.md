@@ -49,3 +49,6 @@ I've updated the plugin so that it checks 16 points (10 outer, 6 inner) instead 
 appears to result in a better calibration, at least with the machines I've tested on.
 
 Enjoy!
+
+[17FEB21] Rob Borsari
+Added python 3 tag for testing with octoprint on python 3
